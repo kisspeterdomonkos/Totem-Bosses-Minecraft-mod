@@ -1,0 +1,67 @@
+{
+  "item.totembosses.raw_bronze": "Raw Bronze",
+  "item.totembosses.bronze_ingot": "Bronze Ingot",
+  "item.totembosses.tin_ingot": "Tin Ingot",
+  "item.totembosses.pig_iron_ingot": "Pig Iron Ingot",
+  "item.totembosses.molten_ingot": "Molten Ingot",
+  "item.totembosses.oxidized_copper_ingot": "Oxidized Copper Ingot",
+  "item.totembosses.steel_ingot": "Steel Ingot",
+  "item.totembosses.raw_steel": "Raw Steel",
+  "item.totembosses.raw_pig_iron": "Raw Pig Iron",
+  "item.totembosses.raw_tin": "Raw Tin",
+
+  "item.totembosses.efum": "EFÜM",
+  "item.totembosses.copper_sword": "Copper Sword",
+  "item.totembosses.tin_sword": "Tin Sword",
+  "item.totembosses.bronze_sword": "Bronze Sword",
+  "item.totembosses.alloy_sword": "Alloy Sword",
+  "item.totembosses.molten_sword": "Molten Sword",
+  "item.totembosses.old_blade": "Old Blade",
+  "item.totembosses.steel_sword": "Steel Sword",
+  "item.totembosses.pig_iron_sword": "Pig Iron Sword",
+  "item.totembosses.bloodforge_blade": "Bloodforge Blade",
+  "item.totembosses.stormsoul": "Stormsoul",
+  "item.totembosses.stormbringer": "Stormbringer",
+  "item.totembosses.recurved_bow": "Recurved Bow",
+
+  "item.totembosses.bronze_helmet": "Bronze Helmet",
+  "item.totembosses.bronze_chestplate": "Bronze Chestplate",
+  "item.totembosses.bronze_leggings": "Bronze Leggings",
+  "item.totembosses.bronze_boots": "Bronze Boots",
+
+  "item.totembosses.steel_helmet": "Steel Helmet",
+  "item.totembosses.steel_chestplate": "Steel Chestplate",
+  "item.totembosses.steel_leggings": "Steel Leggings",
+  "item.totembosses.steel_boots": "Steel Boots",
+
+  "item.totembosses.pig_iron_helmet": "Pig Iron Helmet",
+  "item.totembosses.pig_iron_chestplate": "Pig Iron Chestplate",
+  "item.totembosses.pig_iron_leggings": "Pig Iron Leggings",
+  "item.totembosses.pig_iron_boots": "Pig Iron Boots",
+
+  "item.totembosses.bronze_pickaxe": "Bronze Pickaxe",
+  "item.totembosses.bronze_axe": "Bronze Axe",
+  "item.totembosses.bronze_hoe": "Bronze Hoe",
+  "item.totembosses.bronze_shovel": "Bronze Shovel",
+
+  "item.totembosses.pig_iron_pickaxe": "Pig Iron Pickaxe",
+  "item.totembosses.pig_iron_axe": "Pig Iron Axe",
+  "item.totembosses.pig_iron_hoe": "Pig Iron Hoe",
+  "item.totembosses.pig_iron_shovel": "Pig Irone Shovel",
+
+  "item.totembosses.steel_pickaxe": "Steel Pickaxe",
+  "item.totembosses.steel_axe": "Steel Axe",
+  "item.totembosses.steel_hoe": "Steel Hoe",
+  "item.totembosses.steel_shovel": "Steel Shovel",
+
+  "block.totembosses.steel_block": "Steel Block",
+  "block.totembosses.bronze_block": "Bronze Block",
+  "block.totembosses.tin_block": "Tin Block",
+  "block.totembosses.tin_ore": "Tin Ore",
+
+  "creativetab.totembosses.tbs_weapons": "TBs Weapons",
+  "creativetab.totembosses.tbs_armors": "TBs Armors",
+  "creativetab.totembosses.tbs_tools": "TBs Tools",
+  "creativetab.totembosses.tbs_resources": "TBs Resources",
+  "creativetab.totembosses.tbs_blocks": "TBs Blocks"
+}

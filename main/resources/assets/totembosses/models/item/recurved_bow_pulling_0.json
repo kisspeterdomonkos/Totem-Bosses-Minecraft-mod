@@ -1,0 +1,6 @@
+{
+  "parent": "totembosses:item/recurved_bow",
+  "textures": {
+    "layer0": "totembosses:item/recurved_bow_pulling_0"
+  }
+}
